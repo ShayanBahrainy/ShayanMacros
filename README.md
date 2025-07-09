@@ -1,5 +1,6 @@
 # Shayan's Macros
-A hackpad to open my most frequented websites/applications
+A hackpad to open my most frequented websites/applications.
+Reciever.py needs to run on your system and detects the keypresses from the keyboard and it can complete tasks for you.
 For me it opens:
 
 - Gmail
@@ -31,7 +32,14 @@ Same as the original but with 4 leds.
 # Images
 
 ### PCB
+![Screenshot From 2025-07-09 16-47-10](https://github.com/user-attachments/assets/640ccde4-1a66-4481-bd28-9c18c11d36e9)
+
 
 ### CAD
 
+![Screenshot From 2025-07-09 16-47-53](https://github.com/user-attachments/assets/240cecb6-b7e5-4c9d-81bd-1a8d2433f957)
+
+
 ### Firmware
+
+![Screenshot From 2025-07-09 16-48-29](https://github.com/user-attachments/assets/00bcf8aa-2b19-41c2-b71f-1f35c5523fd7)
