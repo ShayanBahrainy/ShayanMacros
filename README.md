@@ -33,12 +33,11 @@ Same as the original but with 4 leds.
 # Images
 
 ### PCB
-![Screenshot From 2025-07-09 16-47-10](https://github.com/user-attachments/assets/640ccde4-1a66-4481-bd28-9c18c11d36e9)
+![Screenshot From 2025-07-09 22-50-05](https://github.com/user-attachments/assets/d1e4a320-3c3a-4ce1-bb35-2c18d65b3cdc)
 
 
 ### CAD
-
-![Screenshot From 2025-07-09 16-47-53](https://github.com/user-attachments/assets/240cecb6-b7e5-4c9d-81bd-1a8d2433f957)
+![Screenshot From 2025-07-09 22-49-15](https://github.com/user-attachments/assets/ffc2f258-a1fb-44d7-b71b-f3b768c76838)
 
 
 ### Firmware
