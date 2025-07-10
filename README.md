@@ -28,6 +28,7 @@ Same as the original but with 4 leds.
 -    4x Blank DSA Keycaps
 -    4x M3x16 Bolt
 -    4x M3 Heatset
+-    1x Alps EC11E Vertical H20mm Rotary Encoder
 
 # Images
 
