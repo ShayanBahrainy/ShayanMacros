@@ -39,6 +39,9 @@ Same as the original but with 4 leds.
 
 ![Screenshot From 2025-07-09 16-47-53](https://github.com/user-attachments/assets/240cecb6-b7e5-4c9d-81bd-1a8d2433f957)
 
+### Schematic
+<img width="1109" height="746" alt="Screenshot From 2025-07-10 15-04-04" src="https://github.com/user-attachments/assets/29373a1a-4920-437c-877b-ab7004eb006c" />
+
 
 ### Firmware
 
