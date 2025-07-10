@@ -37,7 +37,8 @@ Same as the original but with 4 leds.
 
 
 ### CAD
-![Screenshot From 2025-07-09 22-49-15](https://github.com/user-attachments/assets/ffc2f258-a1fb-44d7-b71b-f3b768c76838)
+<img width="2159" height="1356" alt="Screenshot From 2025-07-10 15-12-09" src="https://github.com/user-attachments/assets/80ff2aa2-ad56-48bd-bc0b-4c813bfb0017" />
+
 
 ### Schematic
 <img width="868" height="553" alt="Screenshot From 2025-07-10 14-49-08" src="https://github.com/user-attachments/assets/22135381-9be3-4346-91eb-6d2f472b2373" />
