@@ -46,5 +46,3 @@ Same as the original but with 4 leds.
 ### Firmware
 
 ![Screenshot From 2025-07-09 16-48-29](https://github.com/user-attachments/assets/00bcf8aa-2b19-41c2-b71f-1f35c5523fd7)
-
-
