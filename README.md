@@ -28,20 +28,20 @@ Same as the original but with 4 leds.
 -    4x Blank DSA Keycaps
 -    4x M3x16 Bolt
 -    4x M3 Heatset
+-    1x Alps EC11E Vertical H20mm Rotary Encoder
 
 # Images
 
 ### PCB
-![Screenshot From 2025-07-09 16-47-10](https://github.com/user-attachments/assets/640ccde4-1a66-4481-bd28-9c18c11d36e9)
+![Screenshot From 2025-07-09 22-50-05](https://github.com/user-attachments/assets/d1e4a320-3c3a-4ce1-bb35-2c18d65b3cdc)
 
 
 ### CAD
+<img width="2159" height="1356" alt="Screenshot From 2025-07-10 15-12-09" src="https://github.com/user-attachments/assets/80ff2aa2-ad56-48bd-bc0b-4c813bfb0017" />
 
-![Screenshot From 2025-07-09 16-47-53](https://github.com/user-attachments/assets/240cecb6-b7e5-4c9d-81bd-1a8d2433f957)
 
 ### Schematic
-<img width="1109" height="746" alt="Screenshot From 2025-07-10 15-04-04" src="https://github.com/user-attachments/assets/29373a1a-4920-437c-877b-ab7004eb006c" />
-
+<img width="868" height="553" alt="Screenshot From 2025-07-10 14-49-08" src="https://github.com/user-attachments/assets/22135381-9be3-4346-91eb-6d2f472b2373" />
 
 ### Firmware
 
